@@ -8,6 +8,7 @@ public class Test {
 		test1();
 	}
 
+
 	/**
 	 * 测试String，StringBuilder，StringBuffer的效率
 	 */
